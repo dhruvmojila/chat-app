@@ -1,5 +1,5 @@
 # chat-app
 
-Demo : https://expo.dev/@dhruvmojila/CabApp?serviceType=classic&distribution=expo-go
+Demo : [exp://exp.host/@dm_1205/CabApp?release-channel=default](https://expo.dev/@dm_1205/CabApp?serviceType=classic&distribution=expo-go)
 
-![Screenshot 2023-10-18 at 2 43 01 PM](https://github.com/dhruvmojila/chat-app/assets/68740971/16dda37f-396b-481c-9c4e-785309b23458)
+![Screenshot 2023-10-18 at 2 56 49 PM](https://github.com/dhruvmojila/chat-app/assets/68740971/3610306d-2e7a-4879-baf4-e817981b74a9)
